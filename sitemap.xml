@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- HOMEPAGE -->
+  <url>
+    <loc>https://slotenmaker-amsterdam.netlify.app/</loc>
+    <lastmod>2025-01-28</lastmod>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- WIJKEN (NEIGHBORHOODS) -->
+  <url>
+    <loc>https://slotenmaker-amsterdam.netlify.app/wijken/centrum.html</loc>
+    <lastmod>2025-01-28</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://slotenmaker-amsterdam.netlify.app/wijken/zuid.html</loc>
+    <lastmod>2025-01-28</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://slotenmaker-amsterdam.netlify.app/wijken/west.html</loc>
+    <lastmod>2025-01-28</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://slotenmaker-amsterdam.netlify.app/wijken/oost.html</loc>
+    <lastmod>2025-01-28</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://slotenmaker-amsterdam.netlify.app/wijken/noord.html</loc>
+    <lastmod>2025-01-28</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- EXTRA CITIES (Only keep these if you actually created the folders) -->
+  <url>
+    <loc>https://slotenmaker-amsterdam.netlify.app/rotterdam/</loc>
+    <lastmod>2025-01-28</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://slotenmaker-amsterdam.netlify.app/den-haag/</loc>
+    <lastmod>2025-01-28</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://slotenmaker-amsterdam.netlify.app/utrecht/</loc>
+    <lastmod>2025-01-28</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+</urlset>
